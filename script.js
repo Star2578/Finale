@@ -3,6 +3,7 @@ let input = document.querySelector("input");
 let submit = document.getElementById("button-submit");
 let response = document.querySelector("p");
 
+
 question.innerHTML = "What is the longest river?";
 
 submit.addEventListener("click", printInput)

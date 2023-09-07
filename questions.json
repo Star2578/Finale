@@ -1,0 +1,23 @@
+[
+    {
+        "question": "What's the longest river in South America?",
+        "answer": "Amazon River",
+        "alt_answer": null,
+        "response": "Don't ask me how long it really is. If you really want to know, ask Google instead.",
+        "hint": "The name of the river is similiar to a coffee shop brand."
+    },
+    {
+        "question": "How many rings make up the symbol of the Olympic Games?",
+        "answer": "Five",
+        "alt_answer": "5",
+        "response": "When I saw number 5 the first thing that comes to my mind is 555",
+        "hint": "299*7/3*0+5 = ?"
+    },
+    {
+        "question": "How many years does it take for Pluto to orbit the sun once?",
+        "answer": "248 years",
+        "alt_answer": "",
+        "response": "",
+        "hint": "This one is hard huh? Just type \"248 years\" if you're hopeless Nya~"
+    }
+]
