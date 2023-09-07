@@ -1,0 +1,56 @@
+/* TODO: Make this web responsive for many devices */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 4rem;
+    margin: 20px;
+    margin-top: 80px;
+}
+
+#qna-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+#neko-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+
+img {
+    min-width: 150px;
+    min-height: 150px;
+    max-width: 250px;
+    max-height: 250px;
+    width: 100%;
+    height: 100%;
+}
+
+#box {
+    background-color: gray;
+    border-radius: 10px;
+    max-width: 400px;
+    max-height: 200px;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    overflow: scroll;
+}
